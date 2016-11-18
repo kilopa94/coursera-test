@@ -65,15 +65,9 @@ body {
 	color: #b36e02;
 }
 
-section {
+.boxcontent {
 	clear: right;
 	text-align: left;
-}
-
-h1 {
-}
-
-section {
 	font-family: "Times New Roman";
 
 }
