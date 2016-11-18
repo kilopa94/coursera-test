@@ -65,7 +65,7 @@ body {
 	color: #b36e02;
 }
 
-.boxcontent {
+p.boxcontent {
 	clear: right;
 	text-align: left;
 	font-family: "Times New Roman";
