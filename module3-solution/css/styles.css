@@ -4,6 +4,7 @@
 
 .nav.navbar-nav > li > a{
 	color: white;
+	text-align: center;
 }
 .nav.navbar-nav > li > a:hover{
 	color: yellow;
