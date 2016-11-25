@@ -1,0 +1,25 @@
+.navbar-collapse.collapse.in {
+	background: #d05526;
+}
+
+.nav.navbar-nav > li > a{
+	color: white;
+}
+.nav.navbar-nav > li > a:hover{
+	color: yellow;
+}
+
+#Chicken{
+	background: #72c8f1;
+}
+
+#Beef {
+	background: #86cc47;
+	margin-top: 20px;
+}
+
+#Sushi {
+	background: #d6d63a;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
